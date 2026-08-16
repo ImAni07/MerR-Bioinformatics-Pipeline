@@ -1,0 +1,38 @@
+2026-08-16 01:08:25,718 | INFO | ============================================================
+2026-08-16 01:08:25,718 | INFO | EXP002C Started
+2026-08-16 01:08:25,718 | INFO | ============================================================
+2026-08-16 01:08:25,718 | INFO | Configuration completed successfully.
+2026-08-16 01:08:25,719 | INFO | Metadata File : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002B_UniProt_Metadata.csv
+2026-08-16 01:08:25,719 | INFO | FASTA File    : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\02_Processed_Data\MerR_NR90_Galaxy.fasta
+2026-08-16 01:08:25,719 | INFO | Output File   : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002C_Clean_Metadata.csv
+2026-08-16 01:08:25,789 | INFO | Metadata loaded successfully.
+2026-08-16 01:08:25,789 | INFO | Rows: 14099
+2026-08-16 01:08:25,789 | INFO | Columns: 11
+2026-08-16 01:08:25,950 | INFO | FASTA sequences loaded successfully.
+2026-08-16 01:08:25,950 | INFO | Total FASTA sequences : 14299
+2026-08-16 01:08:25,982 | INFO | All metadata records successfully matched with FASTA sequences.
+2026-08-16 01:08:25,983 | INFO | Mapped FASTA sequences : 14099
+2026-08-16 01:08:25,983 | INFO | Missing FASTA sequences : 0
+2026-08-16 01:08:26,445 | INFO | Metadata cleaned successfully.
+2026-08-16 01:08:26,570 | INFO | FASTA sequences available : 14099
+2026-08-16 01:08:26,570 | INFO | Missing FASTA sequences : 0
+2026-08-16 01:08:26,570 | INFO | Sequence length mismatches : 0
+2026-08-16 01:08:26,570 | INFO | Metadata validation completed successfully.
+2026-08-16 01:08:26,784 | INFO | FASTA_Sequence column verified in exported metadata.
+2026-08-16 01:08:26,791 | INFO | Clean metadata export verified.
+2026-08-16 01:08:26,791 | INFO | Clean metadata exported: C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002C_Clean_Metadata.csv
+2026-08-16 01:08:26,791 | INFO | Validation report generated successfully.
+2026-08-16 01:08:26,791 | INFO | Validation report includes FASTA integration statistics.
+2026-08-16 01:08:26,791 | INFO | Validation report saved to: C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\04_Results\EXP002C_Validation_Report.txt
+2026-08-16 01:08:26,797 | INFO | Experiment report generated successfully.
+2026-08-16 01:08:26,799 | INFO | Experiment report includes FASTA integration summary.
+2026-08-16 01:08:26,799 | INFO | Experiment report saved to: C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\04_Results\EXP002C_Metadata_Report.txt
+2026-08-16 01:08:26,799 | INFO | Execution Summary
+2026-08-16 01:08:26,800 | INFO | Metadata Records             : 14099
+2026-08-16 01:08:26,800 | INFO | Metadata Columns             : 12
+2026-08-16 01:08:26,800 | INFO | FASTA Sequences Added        : 14099
+2026-08-16 01:08:26,800 | INFO | Missing FASTA Sequences      : 0
+2026-08-16 01:08:26,800 | INFO | Sequence Length Mismatches   : 0
+2026-08-16 01:08:26,800 | INFO | ==================================================
+2026-08-16 01:08:26,800 | INFO | EXP002C COMPLETED SUCCESSFULLY
+2026-08-16 01:08:26,800 | INFO | ==================================================

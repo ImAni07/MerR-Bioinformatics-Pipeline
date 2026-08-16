@@ -1,0 +1,258 @@
+2026-08-13 00:54:19,601 | INFO | ==================================================
+2026-08-13 00:54:19,601 | INFO | EXP002D Started
+2026-08-13 00:54:19,601 | INFO | ==================================================
+2026-08-13 00:54:19,601 | INFO | Configuration completed successfully.
+2026-08-13 00:54:19,601 | INFO | Experiment summary displayed.
+2026-08-13 00:54:19,601 | INFO | Input File : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002C_Clean_Metadata.csv
+2026-08-13 00:54:19,601 | INFO | Output Directory : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata
+2026-08-13 00:54:19,601 | INFO | Figure Directory : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\07_Figures
+2026-08-13 00:54:19,601 | INFO | Table Directory : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\08_Tables
+2026-08-13 00:54:19,601 | INFO | ==================================================
+2026-08-13 00:54:19,601 | INFO | Experiment 002D execution started.
+2026-08-13 00:54:19,601 | INFO | ==================================================
+2026-08-13 00:54:19,601 | INFO | Checking input metadata file...
+2026-08-13 00:54:19,601 | INFO | Input metadata file found.
+2026-08-13 00:54:19,701 | INFO | Rows: 14099
+2026-08-13 00:54:19,702 | INFO | Columns: 11
+2026-08-13 00:54:19,702 | INFO | Memory Usage: 9.04 MB
+2026-08-13 00:54:19,702 | INFO | Required column verification passed.
+2026-08-13 00:54:19,703 | INFO | Metadata loaded successfully with 14099 records and 11 columns.
+2026-08-13 00:54:19,703 | INFO | Generating dataset statistics...
+2026-08-13 00:54:19,746 | INFO | Dataset statistics generated successfully.
+2026-08-13 00:54:19,746 | INFO | Generating biological statistics...
+2026-08-13 00:54:19,765 | INFO | Biological statistics generated successfully.
+2026-08-13 00:54:19,766 | INFO | Generating sequence statistics...
+2026-08-13 00:54:19,770 | INFO | Sequence statistics generated successfully.
+2026-08-13 00:54:19,770 | INFO | Generating frequency tables...
+2026-08-13 00:54:19,785 | INFO | Frequency tables generated successfully.
+2026-08-13 00:54:19,785 | INFO | Generating all Plotly visualizations.
+2026-08-13 00:54:19,785 | INFO | Creating sequence length histogram.
+2026-08-13 00:54:20,552 | INFO | Chromium init'ed with kwargs {}
+2026-08-13 00:54:20,573 | INFO | Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-08-13 00:54:20,576 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp88y97twd.
+2026-08-13 00:54:20,578 | INFO | Opening browser.
+2026-08-13 00:54:20,579 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp07jlo7o1.
+2026-08-13 00:54:20,580 | INFO | Temporary directory at: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp07jlo7o1
+2026-08-13 00:54:21,381 | INFO | Conforming 1 to file:///C:/Users/ANIRBA~1/AppData/Local/Temp/tmp88y97twd/index.html
+2026-08-13 00:54:22,598 | INFO | Getting tab from queue (has 1)
+2026-08-13 00:54:22,598 | INFO | Got A22D
+2026-08-13 00:54:23,469 | INFO | Reloading tab A22D before return.
+2026-08-13 00:54:23,661 | INFO | Putting tab A22D back (queue size: 0).
+2026-08-13 00:54:23,661 | INFO | Waiting for all cleanups to finish.
+2026-08-13 00:54:23,661 | INFO | Exiting Kaleido.
+2026-08-13 00:54:23,664 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:23,667 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:23,667 | INFO | Closing browser.
+2026-08-13 00:54:23,823 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:23,823 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:23,823 | INFO | Closing browser.
+2026-08-13 00:54:23,823 | INFO | Cancelling tasks.
+2026-08-13 00:54:23,823 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:24,405 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:24,405 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:24,405 | INFO | Cancelling tasks.
+2026-08-13 00:54:24,405 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:24,405 | INFO | Histogram saved.
+2026-08-13 00:54:24,405 | INFO | Creating sequence length boxplot.
+2026-08-13 00:54:24,436 | INFO | Chromium init'ed with kwargs {}
+2026-08-13 00:54:24,443 | INFO | Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-08-13 00:54:24,443 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpecyy_hjj.
+2026-08-13 00:54:24,444 | INFO | Opening browser.
+2026-08-13 00:54:24,445 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpmpdln7ih.
+2026-08-13 00:54:24,446 | INFO | Temporary directory at: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpmpdln7ih
+2026-08-13 00:54:25,024 | INFO | Conforming 1 to file:///C:/Users/ANIRBA~1/AppData/Local/Temp/tmpecyy_hjj/index.html
+2026-08-13 00:54:26,237 | INFO | Getting tab from queue (has 1)
+2026-08-13 00:54:26,237 | INFO | Got 437E
+2026-08-13 00:54:26,421 | INFO | Reloading tab 437E before return.
+2026-08-13 00:54:26,502 | INFO | Putting tab 437E back (queue size: 0).
+2026-08-13 00:54:26,502 | INFO | Waiting for all cleanups to finish.
+2026-08-13 00:54:26,502 | INFO | Exiting Kaleido.
+2026-08-13 00:54:26,503 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:26,504 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:26,504 | INFO | Closing browser.
+2026-08-13 00:54:26,535 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:26,535 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:26,535 | INFO | Closing browser.
+2026-08-13 00:54:26,535 | INFO | Cancelling tasks.
+2026-08-13 00:54:26,535 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:26,717 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:26,717 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:26,717 | INFO | Cancelling tasks.
+2026-08-13 00:54:26,717 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:26,717 | INFO | Boxplot saved.
+2026-08-13 00:54:26,717 | INFO | Creating protein existence pie chart.
+2026-08-13 00:54:26,717 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:26,717 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:26,717 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:26,717 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:26,778 | INFO | Chromium init'ed with kwargs {}
+2026-08-13 00:54:26,778 | INFO | Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-08-13 00:54:26,778 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpxrydle0m.
+2026-08-13 00:54:26,778 | INFO | Opening browser.
+2026-08-13 00:54:26,794 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp6h8yr1pt.
+2026-08-13 00:54:26,794 | INFO | Temporary directory at: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp6h8yr1pt
+2026-08-13 00:54:27,229 | INFO | Conforming 1 to file:///C:/Users/ANIRBA~1/AppData/Local/Temp/tmpxrydle0m/index.html
+2026-08-13 00:54:28,453 | INFO | Getting tab from queue (has 1)
+2026-08-13 00:54:28,453 | INFO | Got 212B
+2026-08-13 00:54:28,642 | INFO | Reloading tab 212B before return.
+2026-08-13 00:54:28,730 | INFO | Putting tab 212B back (queue size: 0).
+2026-08-13 00:54:28,730 | INFO | Waiting for all cleanups to finish.
+2026-08-13 00:54:28,731 | INFO | Exiting Kaleido.
+2026-08-13 00:54:28,732 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:28,732 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:28,732 | INFO | Closing browser.
+2026-08-13 00:54:28,763 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:28,763 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:28,763 | INFO | Closing browser.
+2026-08-13 00:54:28,763 | INFO | Cancelling tasks.
+2026-08-13 00:54:28,763 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:28,953 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:28,953 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:28,953 | INFO | Cancelling tasks.
+2026-08-13 00:54:28,953 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:28,953 | INFO | Protein existence pie chart saved.
+2026-08-13 00:54:28,953 | INFO | Creating Top 20 Protein Names Bar Chart.
+2026-08-13 00:54:28,991 | INFO | Chromium init'ed with kwargs {}
+2026-08-13 00:54:28,992 | INFO | Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-08-13 00:54:28,993 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp6dd7v11j.
+2026-08-13 00:54:28,994 | INFO | Opening browser.
+2026-08-13 00:54:28,995 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpa28q9efn.
+2026-08-13 00:54:28,996 | INFO | Temporary directory at: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpa28q9efn
+2026-08-13 00:54:29,459 | INFO | Conforming 1 to file:///C:/Users/ANIRBA~1/AppData/Local/Temp/tmp6dd7v11j/index.html
+2026-08-13 00:54:30,694 | INFO | Getting tab from queue (has 1)
+2026-08-13 00:54:30,694 | INFO | Got ABD8
+2026-08-13 00:54:31,023 | INFO | Reloading tab ABD8 before return.
+2026-08-13 00:54:31,112 | INFO | Putting tab ABD8 back (queue size: 0).
+2026-08-13 00:54:31,113 | INFO | Waiting for all cleanups to finish.
+2026-08-13 00:54:31,113 | INFO | Exiting Kaleido.
+2026-08-13 00:54:31,115 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:31,115 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:31,115 | INFO | Closing browser.
+2026-08-13 00:54:31,143 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:31,143 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:31,143 | INFO | Closing browser.
+2026-08-13 00:54:31,143 | INFO | Cancelling tasks.
+2026-08-13 00:54:31,143 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:31,312 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:31,312 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:31,312 | INFO | Cancelling tasks.
+2026-08-13 00:54:31,312 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:31,312 | INFO | Protein Name chart saved.
+2026-08-13 00:54:31,312 | INFO | Creating Top 20 Gene Names Bar Chart.
+2026-08-13 00:54:31,336 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:31,339 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:31,339 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:31,339 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:31,359 | INFO | Chromium init'ed with kwargs {}
+2026-08-13 00:54:31,360 | INFO | Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-08-13 00:54:31,360 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpowfz1cmb.
+2026-08-13 00:54:31,360 | INFO | Opening browser.
+2026-08-13 00:54:31,360 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp6m6ios7g.
+2026-08-13 00:54:31,360 | INFO | Temporary directory at: C:\Users\ANIRBA~1\AppData\Local\Temp\tmp6m6ios7g
+2026-08-13 00:54:31,829 | INFO | Conforming 1 to file:///C:/Users/ANIRBA~1/AppData/Local/Temp/tmpowfz1cmb/index.html
+2026-08-13 00:54:32,984 | INFO | Getting tab from queue (has 1)
+2026-08-13 00:54:32,984 | INFO | Got FFB2
+2026-08-13 00:54:33,260 | INFO | Reloading tab FFB2 before return.
+2026-08-13 00:54:33,361 | INFO | Putting tab FFB2 back (queue size: 0).
+2026-08-13 00:54:33,362 | INFO | Waiting for all cleanups to finish.
+2026-08-13 00:54:33,362 | INFO | Exiting Kaleido.
+2026-08-13 00:54:33,363 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:33,363 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:33,364 | INFO | Closing browser.
+2026-08-13 00:54:33,392 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:33,392 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:33,392 | INFO | Closing browser.
+2026-08-13 00:54:33,392 | INFO | Cancelling tasks.
+2026-08-13 00:54:33,392 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:33,580 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:33,580 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:33,580 | INFO | Cancelling tasks.
+2026-08-13 00:54:33,580 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:33,580 | INFO | Gene Name chart saved.
+2026-08-13 00:54:33,580 | INFO | Creating Top 20 Organisms Bar Chart.
+2026-08-13 00:54:33,580 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:33,580 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:33,624 | INFO | Chromium init'ed with kwargs {}
+2026-08-13 00:54:33,624 | INFO | Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-08-13 00:54:33,624 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpq02uts9j.
+2026-08-13 00:54:33,624 | INFO | Opening browser.
+2026-08-13 00:54:33,624 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpywvo_5pf.
+2026-08-13 00:54:33,624 | INFO | Temporary directory at: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpywvo_5pf
+2026-08-13 00:54:34,090 | INFO | Conforming 1 to file:///C:/Users/ANIRBA~1/AppData/Local/Temp/tmpq02uts9j/index.html
+2026-08-13 00:54:35,328 | INFO | Getting tab from queue (has 1)
+2026-08-13 00:54:35,328 | INFO | Got D623
+2026-08-13 00:54:35,645 | INFO | Reloading tab D623 before return.
+2026-08-13 00:54:35,748 | INFO | Putting tab D623 back (queue size: 0).
+2026-08-13 00:54:35,749 | INFO | Waiting for all cleanups to finish.
+2026-08-13 00:54:35,749 | INFO | Exiting Kaleido.
+2026-08-13 00:54:35,751 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:35,752 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:35,752 | INFO | Closing browser.
+2026-08-13 00:54:35,786 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:35,786 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:35,786 | INFO | Closing browser.
+2026-08-13 00:54:35,788 | INFO | Cancelling tasks.
+2026-08-13 00:54:35,788 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:35,965 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:35,965 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:35,965 | INFO | Cancelling tasks.
+2026-08-13 00:54:35,965 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:35,965 | INFO | Organism chart saved.
+2026-08-13 00:54:35,981 | INFO | Creating Missing Values Chart.
+2026-08-13 00:54:35,981 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:35,981 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:36,006 | INFO | Chromium init'ed with kwargs {}
+2026-08-13 00:54:36,006 | INFO | Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-08-13 00:54:36,013 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpmngt7r74.
+2026-08-13 00:54:36,013 | INFO | Opening browser.
+2026-08-13 00:54:36,013 | INFO | Temp directory created: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpvktzm_sk.
+2026-08-13 00:54:36,013 | INFO | Temporary directory at: C:\Users\ANIRBA~1\AppData\Local\Temp\tmpvktzm_sk
+2026-08-13 00:54:36,469 | INFO | Conforming 1 to file:///C:/Users/ANIRBA~1/AppData/Local/Temp/tmpmngt7r74/index.html
+2026-08-13 00:54:37,653 | INFO | Getting tab from queue (has 1)
+2026-08-13 00:54:37,653 | INFO | Got 677E
+2026-08-13 00:54:37,883 | INFO | Reloading tab 677E before return.
+2026-08-13 00:54:37,979 | INFO | Putting tab 677E back (queue size: 0).
+2026-08-13 00:54:37,980 | INFO | Waiting for all cleanups to finish.
+2026-08-13 00:54:37,980 | INFO | Exiting Kaleido.
+2026-08-13 00:54:37,982 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:37,982 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:37,982 | INFO | Closing browser.
+2026-08-13 00:54:38,007 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:38,007 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:38,007 | INFO | Closing browser.
+2026-08-13 00:54:38,007 | INFO | Cancelling tasks.
+2026-08-13 00:54:38,007 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:38,178 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:38,178 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:38,178 | INFO | Cancelling tasks.
+2026-08-13 00:54:38,178 | INFO | Exiting Kaleido/Choreo.
+2026-08-13 00:54:38,178 | INFO | Missing Value chart saved.
+2026-08-13 00:54:38,178 | INFO | All visualizations generated successfully.
+2026-08-13 00:54:38,178 | INFO | Exporting experiment results...
+2026-08-13 00:54:38,267 | INFO | Metadata summary exported successfully:
+C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002D_Metadata_Summary.csv
+2026-08-13 00:54:38,282 | INFO | Protein_Names exported successfully.
+2026-08-13 00:54:38,282 | INFO | Gene_Names exported successfully.
+2026-08-13 00:54:38,288 | INFO | Organisms exported successfully.
+2026-08-13 00:54:38,290 | INFO | Taxonomy_IDs exported successfully.
+2026-08-13 00:54:38,292 | INFO | Protein_Existence exported successfully.
+2026-08-13 00:54:38,295 | INFO | Missing_Values exported successfully.
+2026-08-13 00:54:38,298 | INFO | Sequence statistics exported successfully.
+2026-08-13 00:54:38,301 | INFO | TemporaryDirectory.cleanup() worked.
+2026-08-13 00:54:38,303 | INFO | shutil.rmtree worked.
+2026-08-13 00:54:38,304 | INFO | Dataset statistics exported successfully.
+2026-08-13 00:54:38,308 | INFO | Biological statistics exported successfully.
+2026-08-13 00:54:38,308 | INFO | ==================================================
+2026-08-13 00:54:38,308 | INFO | Completed successfully.
+2026-08-13 00:54:38,308 | INFO | ==================================================
+2026-08-13 00:54:38,308 | INFO | Generating statistics and experiment reports...
+2026-08-13 00:54:38,308 | INFO | Statistics report generated successfully.
+2026-08-13 00:54:38,314 | INFO | Experiment report generated successfully.
+2026-08-13 00:54:38,315 | INFO | ==================================================
+2026-08-13 00:54:38,315 | INFO | Experiment (Statistics & Experiment Reports) completed successfully.
+2026-08-13 00:54:38,315 | INFO | ============================================================
+2026-08-13 00:54:38,316 | INFO | ==================================================
+2026-08-13 00:54:38,316 | INFO | Experiment 002D completed successfully.
+2026-08-13 00:54:38,316 | INFO | Execution Time : 18.71 seconds
+2026-08-13 00:54:38,316 | INFO | Records Processed : 14099
+2026-08-13 00:54:38,316 | INFO | ==================================================
