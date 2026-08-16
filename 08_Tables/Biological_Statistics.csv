@@ -1,0 +1,94 @@
+Section,Metric,Value
+Protein Statistics,Unique Protein Names,352.0
+Protein Statistics,Top 20 Most Frequent Protein Names | MerR family transcriptional regulator,2964.0
+Protein Statistics,Top 20 Most Frequent Protein Names | Redox-sensitive transcriptional activator SoxR,1763.0
+Protein Statistics,Top 20 Most Frequent Protein Names | Cu(I)-responsive transcriptional regulator,1703.0
+Protein Statistics,Top 20 Most Frequent Protein Names | MerR family DNA-binding transcriptional regulator,1038.0
+Protein Statistics,Top 20 Most Frequent Protein Names | DNA-binding transcriptional MerR regulator,709.0
+Protein Statistics,Top 20 Most Frequent Protein Names | HTH merR-type domain-containing protein,571.0
+Protein Statistics,Top 20 Most Frequent Protein Names | Helix-turn-helix domain-containing protein,506.0
+Protein Statistics,"Top 20 Most Frequent Protein Names | DNA-binding transcriptional regulator, MerR family",444.0
+Protein Statistics,"Top 20 Most Frequent Protein Names | Transcriptional regulator, MerR family",399.0
+Protein Statistics,Top 20 Most Frequent Protein Names | Transcriptional regulator,291.0
+Protein Statistics,Top 20 Most Frequent Protein Names | Mercuric resistance operon regulatory protein,274.0
+Protein Statistics,Top 20 Most Frequent Protein Names | MerR family redox-sensitive transcriptional activator SoxR,273.0
+Protein Statistics,Top 20 Most Frequent Protein Names | TioE family transcriptional regulator,263.0
+Protein Statistics,Top 20 Most Frequent Protein Names | Heavy metal-responsive transcriptional regulator,250.0
+Protein Statistics,Top 20 Most Frequent Protein Names | MerR family DNA-binding protein,214.0
+Protein Statistics,Top 20 Most Frequent Protein Names | IS607 family transposase,160.0
+Protein Statistics,Top 20 Most Frequent Protein Names | Cd(II)/Pb(II)-responsive transcriptional regulator,155.0
+Protein Statistics,"Top 20 Most Frequent Protein Names | MerR family transcriptional regulator, redox-sensitive transcriptional activator SoxR",128.0
+Protein Statistics,Top 20 Most Frequent Protein Names | HTH-type transcriptional regulator CueR,114.0
+Protein Statistics,Top 20 Most Frequent Protein Names | HTH-type transcriptional regulator HmrR,103.0
+Gene Statistics,Unique Gene Names,10452.0
+Gene Statistics,Missing Gene Names,336.0
+Gene Statistics,Top 20 Most Frequent Gene Names | soxR,1422.0
+Gene Statistics,Top 20 Most Frequent Gene Names | cueR,1163.0
+Gene Statistics,Top 20 Most Frequent Gene Names | zntR,110.0
+Gene Statistics,Top 20 Most Frequent Gene Names | cadR,103.0
+Gene Statistics,Top 20 Most Frequent Gene Names | hmrR,87.0
+Gene Statistics,Top 20 Most Frequent Gene Names | merR,86.0
+Gene Statistics,Top 20 Most Frequent Gene Names | repA,37.0
+Gene Statistics,Top 20 Most Frequent Gene Names | hmrR_1,31.0
+Gene Statistics,Top 20 Most Frequent Gene Names | dcm,29.0
+Gene Statistics,Top 20 Most Frequent Gene Names | zntR_2,28.0
+Gene Statistics,Top 20 Most Frequent Gene Names | hmrR2,24.0
+Gene Statistics,Top 20 Most Frequent Gene Names | soxR_2,23.0
+Gene Statistics,Top 20 Most Frequent Gene Names | zntR_1,21.0
+Gene Statistics,Top 20 Most Frequent Gene Names | merR1,20.0
+Gene Statistics,Top 20 Most Frequent Gene Names | hmrR_2,20.0
+Gene Statistics,Top 20 Most Frequent Gene Names | zntR_3,19.0
+Gene Statistics,Top 20 Most Frequent Gene Names | soxR_1,19.0
+Gene Statistics,Top 20 Most Frequent Gene Names | merR1_1,11.0
+Gene Statistics,Top 20 Most Frequent Gene Names | hmrR_3,11.0
+Gene Statistics,Top 20 Most Frequent Gene Names | tipA,6.0
+Protein Existence,4: Predicted | Count,13973.0
+Protein Existence,4: Predicted | Percentage,99.11
+Protein Existence,3: Inferred from homology | Count,125.0
+Protein Existence,3: Inferred from homology | Percentage,0.89
+Protein Existence,1: Evidence at protein level | Count,1.0
+Protein Existence,1: Evidence at protein level | Percentage,0.01
+Organism Statistics,Unique Organisms,7603.0
+Organism Statistics,Average Proteins per Organism,1.85
+Organism Statistics,Median Proteins per Organism,1.0
+Organism Statistics,Maximum Proteins in One Organism,11.0
+Organism Statistics,Top 20 Most Represented Organisms | Bosea vaviloviae,11.0
+Organism Statistics,Top 20 Most Represented Organisms | Haloactinospora alba,11.0
+Organism Statistics,Top 20 Most Represented Organisms | Nonomuraea insulae,11.0
+Organism Statistics,Top 20 Most Represented Organisms | Piscinibacter gummiphilus,10.0
+Organism Statistics,Top 20 Most Represented Organisms | Primorskyibacter flagellatus,9.0
+Organism Statistics,Top 20 Most Represented Organisms | Virgisporangium aurantiacum,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Streptomyces nigrescens,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Piscinibacter sakaiensis,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Moorena producens 3L,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Moorena bouillonii PNG,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Nocardia speluncae,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Actinomadura meridiana,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Mesorhizobium australicum,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Nonomuraea jiangxiensis,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Acidovorax soli,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Roseateles saccharophilus,8.0
+Organism Statistics,Top 20 Most Represented Organisms | Hephaestia caeni,7.0
+Organism Statistics,Top 20 Most Represented Organisms | Streptosporangium sandarakinum,7.0
+Organism Statistics,Top 20 Most Represented Organisms | Paeniroseomonas aquatica,7.0
+Organism Statistics,Top 20 Most Represented Organisms | Thalassococcus profundi,7.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 1526658,11.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 1616787,11.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 405555,11.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 946333,10.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 1387277,9.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 633440,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 536018,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 304,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 1920,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 175570,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 419477,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 568701,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 559626,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 592050,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 489825,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 1547922,8.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 1179818,7.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 478107,7.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 2883479,7.0
+Organism Statistics,Top 20 Most Frequent Taxonomy IDs | 2219224,7.0

@@ -1,0 +1,31 @@
+Section,Metric,Value
+Dataset Summary,Total Records,14099.0
+Dataset Summary,Total Columns,11.0
+Dataset Summary,Memory Usage (MB),9.04
+Uniqueness,Duplicate UniProt IDs,0.0
+Uniqueness,Unique Organisms,7603.0
+Uniqueness,Unique Taxonomy IDs,7605.0
+Review Status,Reviewed,14099.0
+Review Status,Unreviewed,0.0
+Missing Values,UniProt_ID (Count),0.0
+Missing Values,UniProt_ID (Percentage),0.0
+Missing Values,Entry_Name (Count),0.0
+Missing Values,Entry_Name (Percentage),0.0
+Missing Values,Protein_Name (Count),0.0
+Missing Values,Protein_Name (Percentage),0.0
+Missing Values,Gene_Name (Count),336.0
+Missing Values,Gene_Name (Percentage),2.38
+Missing Values,Organism (Count),0.0
+Missing Values,Organism (Percentage),0.0
+Missing Values,Taxonomy_ID (Count),0.0
+Missing Values,Taxonomy_ID (Percentage),0.0
+Missing Values,Taxonomic_Lineage (Count),0.0
+Missing Values,Taxonomic_Lineage (Percentage),0.0
+Missing Values,Reviewed (Count),0.0
+Missing Values,Reviewed (Percentage),0.0
+Missing Values,Sequence_Length (Count),0.0
+Missing Values,Sequence_Length (Percentage),0.0
+Missing Values,Protein_Existence (Count),0.0
+Missing Values,Protein_Existence (Percentage),0.0
+Missing Values,Function (Count),13873.0
+Missing Values,Function (Percentage),98.4
