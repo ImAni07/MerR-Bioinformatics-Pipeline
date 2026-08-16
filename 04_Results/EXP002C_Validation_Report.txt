@@ -1,0 +1,20 @@
+============================================================
+EXP002C Validation Report
+============================================================
+
+Total_Records                 : 14099
+Total_Columns                 : 12
+Duplicate_UniProt_IDs         : 0
+Missing_UniProt_IDs           : 0
+Missing_Protein_Name          : 0
+Missing_Gene_Name             : 336
+Missing_Organism              : 0
+Missing_Taxonomy_ID           : 0
+Missing_Taxonomic_Lineage     : 0
+Missing_Sequence_Length       : 0
+Missing_FASTA_Sequence        : 0
+FASTA_Sequences_Available     : 14099
+Sequence_Length_Mismatch      : 0
+Missing_Function              : 13873
+Reviewed                      : 14099
+Unreviewed                    : 0

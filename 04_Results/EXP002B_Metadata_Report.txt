@@ -1,0 +1,34 @@
+==================================================
+Experiment : EXP002B
+Title      : UniProt Metadata Retrieval
+==================================================
+
+Date : 2026-08-10 02:23:05
+
+INPUT
+--------------------------------------------------
+Input File            : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002A_UniProt_IDs.txt
+Total UniProt IDs     : 14299
+
+PROCESSING
+--------------------------------------------------
+Batch Size            : 200
+Total Batches         : 72
+Records Exported      : 14099
+Metadata Columns      : 11
+Failed IDs            : 0
+
+OUTPUT
+--------------------------------------------------
+Metadata CSV          : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002B_UniProt_Metadata.csv
+Failed IDs File       : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002B_Failed_IDs.txt
+Log File              : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\06_Logs\EXP002B_API_Log.txt
+
+PIPELINE
+--------------------------------------------------
+Execution Time        : 9.93 minutes (595.57 seconds)
+Overall Status        : SUCCESS
+
+==================================================
+End of Report
+==================================================

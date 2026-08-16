@@ -1,0 +1,71 @@
+==================================================
+EXPERIMENT 002D REPORT
+==================================================
+
+Experiment Name
+------------------------------
+Metadata Statistics & Summary
+
+Objective
+------------------------------
+Generate descriptive statistics, frequency tables, visualizations and summary reports from the clean metadata generated in Experiment 002C.
+
+Input Dataset
+------------------------------
+C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002C_Clean_Metadata.csv
+
+Records Analyzed
+------------------------------
+14099
+
+Modules Executed
+------------------------------
+Module 1 : Configuration
+Module 2 : Load Metadata
+Module 3 : Dataset Statistics
+Module 4 : Biological Statistics
+Module 5 : Sequence Statistics
+Module 6 : Frequency Tables
+Module 7 : Visualizations
+Module 8 : Export Results
+Module 9 : Report Generation
+
+Output Directories
+------------------------------
+Metadata : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata
+Results  : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\04_Results
+Figures  : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\07_Figures
+Tables   : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\08_Tables
+Logs     : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\06_Logs
+
+Generated Figures
+------------------------------
+Figure_01_Sequence_Length_Histogram.png
+Figure_02_Sequence_Length_Boxplot.png
+Figure_03_Protein_Existence_PieChart.png
+Figure_04_Top20_Protein_Names.png
+Figure_05_Top20_Gene_Names.png
+Figure_06_Top20_Organisms.png
+Figure_07_Missing_Values.png
+
+Generated Tables
+------------------------------
+Biological_Statistics.csv
+Dataset_Statistics.csv
+Gene_Name_Frequency.csv
+Missing_Value_Summary.csv
+Organism_Frequency.csv
+Protein_Existence_Counts.csv
+Protein_Name_Frequency.csv
+Sequence_Length_Statistics.csv
+Taxonomy_ID_Frequency.csv
+
+Experiment Status
+------------------------------
+SUCCESS
+
+Completion Time : 13-08-2026 00:54:38
+
+================================================================================
+END OF EXPERIMENT REPORT
+================================================================================

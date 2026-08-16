@@ -1,0 +1,43 @@
+============================================================
+Experiment : EXP002C
+Title      : Metadata Integration, Cleaning & Validation
+============================================================
+
+Date : 2026-08-16 01:08:26
+
+INPUT
+------------------------------------------------------------
+Input File           : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002B_UniProt_Metadata.csv
+FASTA File           : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\02_Processed_Data\MerR_NR90_Galaxy.fasta
+Input Records        : 14099
+
+PROCESSING
+------------------------------------------------------------
+Records Processed    : 14099
+Metadata Columns     : 12
+New Column Added      : FASTA_Sequence
+Duplicate IDs        : 0
+Missing Gene Names   : 336
+Missing Functions    : 13873
+
+FASTA INTEGRATION
+------------------------------------------------------------
+FASTA Sequences Available : 14099
+Missing FASTA Sequences   : 0
+Length Mismatches         : 0
+
+OUTPUT
+------------------------------------------------------------
+Clean Metadata CSV   : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\05_Metadata\EXP002C_Clean_Metadata.csv
+Metadata Status       : FASTA sequences successfully integrated
+Validation Report    : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\04_Results\EXP002C_Validation_Report.txt
+Log File             : C:\Users\Anirban Majumder\OneDrive - RICE Group\Desktop\Academics\New folder\PhD_Research_Work\06_Logs\EXP002C_Log.txt
+
+PIPELINE
+------------------------------------------------------------
+Execution Time       : 1.07 seconds
+Overall Status        : SUCCESS
+
+============================================================
+End of Report
+============================================================
